@@ -1,7 +1,8 @@
 # Project Speed Dating EDA
 ## Speed Dating
 
-Tinder
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/a93ea1f7-ec26-49bc-bf46-704c828b3930" />
+
 
 ### Company's description 📇
 
